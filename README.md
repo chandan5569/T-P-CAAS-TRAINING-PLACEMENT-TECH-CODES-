@@ -3,8 +3,8 @@ Different codes of training and placement cell
 
 QUE 1: Print the follwing pattern:
 
-1          1
- 2        2
+1 <br>     1
+ 2  <br>    2
    3      3
     4    4
        5
